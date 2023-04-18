@@ -56,23 +56,36 @@ We used binary classification models that predict the absence or presence of Hea
 
 **1st Attempt - Logistic Regression Model**
 Target values:
+
 0: 150
+
 1: 120
+
 Outcome:
 Overall Accuracy: 88.24%
+
 Recall - the model predicts '0' (healthy) as 89% and '1' (with heart disease) as 87%.
+
 
 **2nd Attempt - Logistic Regression Model with Resampled Training Data**
 Target values:
+
 0: 112
+
 1: 112
+
 Outcome:
 Overall Accuracy: 86.76%
+
 Recall - the model predicts '0' (healthy) as 89% and '1' (with heart disease) as 84%.
 
+
 :1st_place_medal:	**3rd Attempt - Logistic Regression Model with Hyper Parameters Tuning (GridSearchCV)**
+
 penalty:l2
+
 solver: lbfgs, newton-cg, saga
+
 Outcome:
 Best Score: 82.75
 Overall: 88.24%
