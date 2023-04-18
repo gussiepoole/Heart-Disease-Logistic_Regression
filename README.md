@@ -94,7 +94,7 @@ Overall: 88.24%
 
 **Why We Chose This Model**
 
-* We chose this the Linear Regression Model because it is proven to be effective for binary classification, which several of our group had experienced success with when working on a similar kind of casetsudy in the past.
+* We chose this the Logistic Regression Model because it is proven to be effective for binary classification, which several of our group had experienced success with when working on a similar kind of casetsudy in the past.
 
 * This kind of model also aligned with the context of our project. In logistic regression, the model learns a relationship between the input features and the probability of the output being one of the two classes. 
 
@@ -114,7 +114,7 @@ Overall: 88.24%
  ## <a id="presentation-header"></a>Presentation
 
 
- Link to our presentation created on Tableau [******]
+[Link to our presentation created on Tableau](https://public.tableau.com/app/profile/marta8505/viz/HeartDiseasePrediction_16816724810860/Homepage?publish=yes)
  
  
  
