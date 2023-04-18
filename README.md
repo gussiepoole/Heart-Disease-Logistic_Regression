@@ -4,14 +4,17 @@
 
 ## Contents
 
-* [Dataset](#dataset-header)
 * [Project Outline](#project-header)
+* [Dataset](#dataset-header)
 * [Tools used](#tools-header)
 * [Inight into the Process](#process-header)
 * [Report](#reports-header)
 * [Presentation](#presentation-header)
 * [Team](#team-header)
 
+## :memo: <a id="project-header"></a>Project Outline :memo:
+
+This project analyses heart disease using machine learning (ML) models and predicts the likelihood that patients will suffer from heart disease based on relevant contributing features from the dataset. We use a SQL relational DB and make use of binary classification models such as `logistic regression` and `decision trees`. We visualised this problem and our analysis, the results for which may be seen in the [Report](#reports-header).
 
 
 ## :stethoscope: <a id="dataset-header"></a>Dataset :stethoscope:
@@ -33,11 +36,7 @@ Our Dataset was a CSV file with 270 records, sourced from Kaggle[https://www.kag
 * Number of vessels fluro (Number of major vessels (0-3) colored by flourosopy)
 * Thallium - Normal, Fixed defect, Reversable defect 
 * Heart Disease - Absence or Presence
-## :memo: <a id="project-header"></a>Project Outline :memo:
 
-This project analyses heart disease using machine learning (ML) models and predicts which patients are most likley to suffer heart disease based on features that result in heart disease. We visualised this problem and our analysis, the report for which may be seen in the [Report](#reports-header)
-
-We used binary classification models that predict the absence or presence of Heart Disease.
 
  ## :wrench: <a id="tools-header"></a>Tools used wrench:
  
