@@ -51,9 +51,10 @@ We used binary classification models that predict the absence or presence of Hea
 
 :trophy: We were able to achieve: :trophy:
 * Although we trialled a lot of different methods and optimizations inluding Hyperparameters Tuning the most successful model we created was with Logistic Regression.
-* We optimized 3 versions of this model and were able to achieve an overall score of  88.24% 
+* We optimized 3 versions of this model and were able to achieve an **overall score of 88.24%** 
 
-1st Attempt - Logistic Regression Model
+
+**1st Attempt - Logistic Regression Model**
 Target values:
 0: 150
 1: 120
@@ -61,7 +62,7 @@ Outcome:
 Overall Accuracy: 88.24%
 Recall - the model predicts '0' (healthy) as 89% and '1' (with heart disease) as 87%.
 
-2nd Attempt - Logistic Regression Model with Resampled Training Data
+**2nd Attempt - Logistic Regression Model with Resampled Training Data**
 Target values:
 0: 112
 1: 112
@@ -69,13 +70,12 @@ Outcome:
 Overall Accuracy: 86.76%
 Recall - the model predicts '0' (healthy) as 89% and '1' (with heart disease) as 84%.
 
-:1st_place_medal:	3rd Attempt - Logistic Regression Model with Hyper Parameters Tuning (GridSearchCV)
+:1st_place_medal:	**3rd Attempt - Logistic Regression Model with Hyper Parameters Tuning (GridSearchCV)**
 penalty:l2
 solver: lbfgs, newton-cg, saga
 Outcome:
 Best Score: 82.75
 Overall: 88.24%
-
 
 
 
