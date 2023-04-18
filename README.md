@@ -10,7 +10,6 @@
 * [Inight into the Process](#process-header)
 * [Report](#reports-header)
 * [Presentation](#presentation-header)
-* [Challenges](#challenge-header)
 * [Team](#team-header)
 
 
@@ -40,7 +39,7 @@ Our Dataset was a CSV file with 270 records, sourced from Kaggle[https://www.kag
 This project analyses heart disease using machine learning (ML) models and predicts which patients are most likley to suffer heart disease based on features that result in heart disease. We visualised this problem and our analysis, the report for which may be seen in the Report section(#reports-header)
 We used binary classification models that predict the absence or presence of Heart Disease.
 
- ## :wrench: <a id="tools-header"></a>Tools used :wrench:
+ ## :wrench: <a id="tools-header"></a>Tools used wrench:
  
  - `Python Pandas`, `Matplotlib`
  - `SQL Database`
@@ -49,12 +48,13 @@ We used binary classification models that predict the absence or presence of Hea
  - `Tensorflow`
  - `Tableau`
 
-:trophy: We were able to achieve: :trophy:
+
+## **<a id="reports-header"></a>:trophy: What we were able to achieve: :trophy:**
 * Although we trialled a lot of different methods and optimizations inluding Hyperparameters Tuning the most successful model we created was with Logistic Regression.
 * We optimized 3 versions of this model and were able to achieve an **overall score of 88.24%** 
 
 
-**1st Attempt - Logistic Regression Model**
+:2nd_place_medal: **1st Attempt - Logistic Regression Model**
 Target values:
 
 0: 150
@@ -67,7 +67,7 @@ Overall Accuracy: 88.24%
 Recall - the model predicts '0' (healthy) as 89% and '1' (with heart disease) as 87%.
 
 
-**2nd Attempt - Logistic Regression Model with Resampled Training Data**
+🥉 **2nd Attempt - Logistic Regression Model with Resampled Training Data** 
 Target values:
 
 0: 112
@@ -92,13 +92,13 @@ Overall: 88.24%
 
 
 
-
 **Why We Chose This Model**
-We chose this the Linear Regression Model because it is proven to be effective for binary classification, which several of our group had experienced success with when working on a similar kind of casetsudy in the past.
 
-This kind of model also aligned with the context of our project. In logistic regression, the model learns a relationship between the input features and the probability of the output being one of the two classes. 
+* We chose this the Linear Regression Model because it is proven to be effective for binary classification, which several of our group had experienced success with when working on a similar kind of casetsudy in the past.
 
-The clear aims of our model in predicting a presence or absence of Heart Disease is displayed in the output of a logistic regression model by a probability score between 0 and 1. 
+* This kind of model also aligned with the context of our project. In logistic regression, the model learns a relationship between the input features and the probability of the output being one of the two classes. 
+
+* The clear aims of our model in predicting a presence or absence of Heart Disease is displayed in the output of a logistic regression model by a probability score between 0 and 1. 
 
  ## <a id="process-header"></a>Insight into the Process
  
@@ -116,7 +116,7 @@ The clear aims of our model in predicting a presence or absence of Heart Disease
 
  Link to our presentation created on Tableau [******]
  
-We Logistic regression is a type of statistical model used for binary classification, which means that it predicts one of two possible outcomes. In logistic regression, the model learns a relationship between the input features and the probability of the output being one of the two classes. The output of a logistic regression model is a probability score between 0 and 1, which represents the likelihood of the instance belonging to the positive class which suits the structure of our data set is predicting the patient is likely to have heart disease or not.
+ 
  
 ## <a id="team-header"></a>Team
 * [Tony](https://github.com/TonyHHNg)
