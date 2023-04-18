@@ -33,10 +33,10 @@ Our Dataset was a CSV file with 270 records, sourced from Kaggle[https://www.kag
 * Number of vessels fluro (Number of major vessels (0-3) colored by flourosopy)
 * Thallium - Normal, Fixed defect, Reversable defect 
 * Heart Disease - Absence or Presence
-
 ## :memo: <a id="project-header"></a>Project Outline :memo:
 
-This project analyses heart disease using machine learning (ML) models and predicts which patients are most likley to suffer heart disease based on features that result in heart disease. We visualised this problem and our analysis, the report for which may be seen in the Report section(#reports-header)
+This project analyses heart disease using machine learning (ML) models and predicts which patients are most likley to suffer heart disease based on features that result in heart disease. We visualised this problem and our analysis, the report for which may be seen in the [Report](#reports-header)
+
 We used binary classification models that predict the absence or presence of Heart Disease.
 
  ## :wrench: <a id="tools-header"></a>Tools used wrench:
