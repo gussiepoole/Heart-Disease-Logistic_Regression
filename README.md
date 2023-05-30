@@ -1,4 +1,4 @@
-# :stethoscope: Project_4 - Machine Learning Integration - Heart Disease :stethoscope:
+# :stethoscope: Project 4 - Machine Learning - Heart Disease :stethoscope:
 
 ![MainImage_A1-9](https://user-images.githubusercontent.com/115706722/231760675-8931fa50-9867-49f4-a601-3afe90e3e1e0.jpg)
 
